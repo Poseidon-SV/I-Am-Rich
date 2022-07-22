@@ -1,5 +1,3 @@
 # I AM RICH
 
-## Flutter App
-
-This project is a starting point for a Flutter application and contains code for I AM RICH app
+This is a flutter app which shows that you are rich 💎✨
